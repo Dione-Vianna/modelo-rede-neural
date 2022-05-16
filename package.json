@@ -1,0 +1,9 @@
+{
+  "name": "modelo-rede-neural",
+  "version": "0.0.1",
+  "description": "um modelo de rede neural craido em js",
+  "main": "index.js",
+  "author": "vianna",
+  "license": "MIT",
+  "private": true
+}
